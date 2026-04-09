@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Komal Parab</h1>
-<h3 align="center">I hold a Diploma in Computer Engineering and have a strong passion for UI/UX design. I am proficient in Figma and Adobe XD. Additionally, I have an expertise in programming languages including HTML, CSS, JavaScript, PHP, and Python. Committed to continuous learning, I am always enhancing my knowledge and skillsets.</h3>
+# 💫 About Me:
+🚀 I’m currently working on Designing and developing scalable web applications with a focus on UI/UX and performance<br>🤝 I’m looking to collaborate on Frontend-heavy projects, UI/UX case studies, and real-world problem-solving applications<br>💼 Previously worked at KAZEN BARCODE PVT. LTD. as a Software Developer Trainee<br>🌱 I’m currently learning Backend development, API design, and improving system scalability<br>💬 Ask me about - UI/UX design, frontend development, Blazor, and building user-focused interfaces<br>⚡ Fun fact: I design first, think like a user, and then build like a developer<br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=parabka24&label=Profile%20views&color=0e75b6&style=flat" alt="parabka24" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parabka24" alt="parabka24" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kommmalllll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/komalanilparab24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reach.komalparab@gmail.com) 
 
-- 🌱 I’m currently learning **Backend development**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kmlpcore&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kmlpcore&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmlpcore&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available on [Github](https://github.com/parabka24?tab=repositories)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kmlpcore&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 💬 Ask me about **UI/UX designing**
+---
+[![](https://visitcount.itsvg.in/api?id=kmlpcore&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> </a> </p>
-
-<br><br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parabka24&show_icons=true&locale=en&layout=compact" alt="parabka24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parabka24&show_icons=true&locale=en" alt="parabka24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parabka24&" alt="parabka24" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h2 align="left">Get in Touch</h2>
 <p align="left">I’m excited to collaborate and explore new opportunities. Reach out to me via <a href="mailto:parabka24@gmail.com">Email</a> or connect with me on <a href="https://www.linkedin.com/in/komal-parab-94704a27a/">LinkedIn</a>.</p>
 <p align="left">Let's build something incredible together! 🚀</p>
