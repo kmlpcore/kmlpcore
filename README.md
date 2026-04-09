@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Komal's+Github+Profile;Where+Creativity+Meets+Functionality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=1000&color=C0B2FF&width=700&lines=Welcome+to+Komal's+Github+Profile;Where+Creativity+Meets+Functionality!)](https://git.io/typing-svg)
 
 ## 💫 About Me:
 🚀 I’m currently working on Designing and developing scalable web applications with a focus on UI/UX and performance<br>🤝 I’m looking to collaborate on Frontend-heavy projects, UI/UX case studies, and real-world problem-solving applications<br>💼 Previously worked at KAZEN BARCODE PVT. LTD. as a Software Developer Trainee<br>🌱 I’m currently learning Backend development, API design, and improving system scalability<br>💬 Ask me about - UI/UX design, frontend development, Blazor, and building user-focused interfaces<br>⚡ Fun fact: I design first, think like a user, and then build like a developer<br>
