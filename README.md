@@ -22,5 +22,5 @@
 [![](https://visitcount.itsvg.in/api?id=kmlpcore&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <h2 align="left">Get in Touch</h2>
-<p align="left">I’m excited to collaborate and explore new opportunities. Reach out to me via <a href="mailto:reach.komalparab@gmail.com">Email</a> or connect with me on <a href="https://www.linkedin.com/in/komal-parab-94704a27a/">LinkedIn</a>.</p> <br>
+<p align="left">I’m excited to collaborate and explore new opportunities. Reach out to me via <a href="mailto:workwith.komalparab@gmail.com">Email</a> or connect with me on <a href="https://www.linkedin.com/in/komal-parab-94704a27a/">LinkedIn</a>.</p> <br>
 <p align="left">Let's build something incredible together! 🚀</p>
